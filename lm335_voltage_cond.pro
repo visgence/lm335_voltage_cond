@@ -1,6 +1,6 @@
-update=1/10/2014 9:37:03 PM
+update=1/11/2014 10:11:26 AM
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
@@ -45,9 +45,11 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[general]
+version=1
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=lm335_voltage_cond.net
 UseCmpFile=1
 PadDrill=0.600000000000
 PadDrillOvalY=0.600000000000
@@ -82,5 +84,4 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
+LibName17=../visgence_parts/visgence_parts
